@@ -91,3 +91,62 @@ Este insight no pregunta qué acción comprar, pregunta dónde se está moviendo
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+🔄 **El mercado no sube todo junto… rota.**
+
+Mientras algunos sectores se enfrían, otros empiezan a liderar.
+
+La pregunta clave es:
+
+🧠 **¿Hacia dónde está fluyendo el capital ahora?**
+
+---
+
+📊 En este análisis medí:
+
+👉 El **RSI promedio por sector**
+👉 Durante la última semana
+
+---
+
+💡 ¿Por qué RSI?
+
+Porque funciona como un proxy de **momentum agregado**:
+
+* RSI alto → presión compradora sostenida
+* RSI bajo → debilidad o consolidación
+
+---
+
+⚠️ Resultado clave:
+
+👉 Los sectores con **RSI promedio más alto**
+son los que están captando mayor interés del mercado.
+
+---
+
+🚨 Insight clave:
+**El capital no desaparece… se mueve.**
+
+---
+
+🔍 ¿Qué permite esto?
+
+✔️ Detectar rotaciones sectoriales tempranas
+✔️ Identificar nuevos líderes de mercado
+✔️ Ajustar exposición antes de que la tendencia sea obvia
+
+---
+
+📉 Porque cuando todos hablan de un sector…
+probablemente el movimiento ya empezó hace días.
+
+---
+
+🧠 En trading, el edge no está solo en elegir activos…
+está en entender **hacia dónde se está moviendo el dinero**.
+
+---
+
+#Quant #Trading #DataScience #SectorRotation #Momentum #RSI #Finanzas
